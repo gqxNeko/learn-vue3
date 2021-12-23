@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vite 2.x + Vue 3.x + TypeScript Starter
 
 [![Author](https://img.shields.io/badge/author-XPoet-orange.svg)](https://github.com/XPoet)
@@ -91,3 +92,7 @@ npm run build
 
 MIT Copyright © 2021 XPoet
 
+=======
+# learn-vue3
+学习vue3
+>>>>>>> e947a93cb40c8fdac222433099a6eb65838b56eb
